@@ -1,12 +1,24 @@
-## ...
+## 2022.06.29 ~ 
+예전에 짜 둔 코드가 마음에 안 들어서,   
+정리한 것이 마음에 안 들어서,   
+이제는 필요가 없어 보여서,   
+오늘도 열심히 집을 부수고 있습니다...
 
-<!--
+<br>
 
-**Here are some ideas to get you started:**
+### 2022.07 이후 부순 내역
+```null```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br>
+
+### 2022.6월까지 부순 것
+&#9989; 수많은 개인 블로그 (Gatsby, Jekyll, Medium...)   
+&#9989; 수많은 JS, Python 코드들   
+&#9989; 코딩 테스트 찍먹했던 답변 모음 (백준, LeetCode...)
+
+<br>
+
+### 부술 예정
+&#9888; 개인 Github Organization 하나   
+&#9888; 오래된 개인 Repo들   
+&#9888; 정리해 둔 수많은 자료들   
